@@ -19,7 +19,6 @@ We standardized timeframes using Python (Pandas) and created Tableau dashboards 
 ## 🚀 What’s Included
 - Project description and data overview  
 - Tableau dashboard screenshots (coming soon)  
-- Jupyter notebooks / scripts for data processing (optional)
 
 ## 👩‍💻 Author
 **Ujwala Tripurana**  
